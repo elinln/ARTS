@@ -1,2 +1,2 @@
 # artsmusic
-project for ARTS
+This is a project for ARTS music group.
