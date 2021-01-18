@@ -1,5 +1,5 @@
 function newMusic() {
-    alert("No Escaping Love - out now!");
+   // alert("No Escaping Love - out now!");
 }
 
 newMusic();
